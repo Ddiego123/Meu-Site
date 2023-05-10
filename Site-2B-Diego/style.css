@@ -4,14 +4,14 @@ header {background-color: #8BF13A; color: #0a0a0a;
 body {background-color: #8BF13A; color: #0a0a0a;
 }
 
-.Imagens {
+.Imagensa {
     width: 5%;
-    margin: 0;
+    padding: 30%;
     display: inline;
-    justify-content: flex-end;
-    align-items: inline-end;
+    justify-content: inline-end;
+    align-items: -end;
 }
-.cabecalho-lista-item {
+.cabecalho-lista-item2 {
     display: flex;
     justify-content:center;
     align-items: center;
@@ -19,4 +19,8 @@ body {background-color: #8BF13A; color: #0a0a0a;
     font-size: 20px;
     padding: 30px;
 
+}
+
+.cabecalho-lista-item {
+    display:inline;
 }
